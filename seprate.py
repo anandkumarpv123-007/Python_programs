@@ -1,0 +1,1 @@
+print("cse","10","python",sep='/')

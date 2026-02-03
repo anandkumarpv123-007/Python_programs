@@ -1,0 +1,1 @@
+print("btech",end=' complted')
